@@ -9,4 +9,4 @@ Tiny13 / 45 hex code for testing, ready to burn, usbtiny is used as programmer.
 uses Arduino IDE t ocompile and burn code.  
 
 circuit diagram,
-[PB1_blink._testJPG](PB1_blink._testJPG) 
+[PB1_blink_test.JPG](PB1_blink_test.JPG) 
