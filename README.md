@@ -4,9 +4,10 @@ Tiny13/45, OC0B/PB1 blink LED, use Timer0 ([MicroCore](https://github.com/MCUdud
 LED1 blink 1Hz  
 LED2, no uses
 
-Tiny13 / 45 hex code for testing, ready to burn, usbtiny is used as programmer.  
+ATtiny13 / 45 hex code for testing, ready to burn, usbtiny is used as programmer.  
+Atmega8/168P hex code for testing, uses [MiniCore](https://github.com/MCUdude/MiniCore), Arduino UNO/168P
 
-uses Arduino IDE t ocompile and burn code.  
+uses Arduino IDE to compile and burn code.  
 
 circuit diagram,  
 ![PB1_blink_test.JPG](PB1_blink_test.JPG) 
